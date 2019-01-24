@@ -2,6 +2,13 @@
 
 In this project I have implemented the dynamic programming concepts used in reinfocement learning.
 
+I have used Frozenlake environment from Open AI's gym toolkit. 
+
+Following concepts have been implemented:
+
+Policy Evaluation, Estimation of Action Values, Policy Improvement, Policy Iteration and Value Iteration.
+
+
 I have read and used the following resources while completing this project:
 
 1. https://www.quora.com/How-is-policy-iteration-different-from-value-iteration
